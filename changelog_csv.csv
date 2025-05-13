@@ -1,0 +1,5 @@
+"file_name","csv_line_num","date","comment"
+"vol02_motionevents_csv.csv","NA",2025-05-08,"text02 and text06 documents combined into master file"
+"vol02_motionevents_csv.csv","NA",2025-05-12,"motionevent_ID column created"
+"vol02_motionevents_csv.csv","NA",2025-05-12,"line_num_CSOL column deleted – motion event ID allows better tracking"
+"commentlog_csv.csv","1-5",2025-05-12,"date column added – previous entries have their date listed as the date of the column creation"

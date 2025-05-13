@@ -1,0 +1,5 @@
+"file_name","csv_line_num","date","comment"
+"vol02_motionevents_csv.csv",2,2025-05-12,"in situations of multiple elements co-expressed in the same morpheme- the morpheme is listed onen time for each element expressed"
+"vol02_motionevents_csv.csv",7,2025-05-12,"noun phrases are treated as one ‘unit’ (inside GEN-blanket) as opposed to previous considering of morphemes-by-morphemes (separate entries for ‘inside’ ‘GEN-’ and ‘blanket’ all as ground)"
+"vol02_motionevents_csv.csv",7,2025-05-12,"motionPOS tag ‘noun’ is inclusive of noun phrases (eg. noun GEN-noun)"
+"vol02_motionevents_csv.csv","8, 9, 12",2025-05-12,"cause often in subordinate clause – should I notate this somehow?"
