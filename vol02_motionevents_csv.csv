@@ -1,0 +1,51 @@
+source_ID,motionevent_ID,transcriptionCSOL,unit,gloss,motionTagging,motionPOS,translationCSOL
+vol2text02,“001”,wa-ḷaṭ dəhóudaḥ,dəhóudaḥ,hit_upon_ground.PASS.3SG.M.IMPF,path,verb,“Then the skin is dropped on the ground several times”
+vol2text02,“001”,wa-ḷaṭ dəhóudaḥ,dəhóudaḥ,hit_upon_ground.PASS.3SG.M.IMPF,figure,sInflV,“Then the skin is dropped on the ground several times”
+vol2text02,“001”,wa-ḷaṭ dəhóudaḥ,dəhóudaḥ,hit_upon_ground.PASS.3SG.M.IMPF,ground,verb,“Then the skin is dropped on the ground several times”
+vol2text02,“002”,wa-yəˁúḳaḷ bə-ḳáne di-kánboľ kor yə́yhəb wa-yəḥámoẓ̂,yəˁúḳaḷ,put.PASS.3SG.M.IMPF,figure,sInflV,“Then it is left under a blanket to become warm and sour.”
+vol2text02,“002”,wa-yəˁúḳaḷ bə-ḳáne di-kánboľ kor yə́yhəb wa-yəḥámoẓ̂,bə-,LOC-,path,preposition,“Then it is left under a blanket to become warm and sour.”
+vol2text02,“002”,wa-yəˁúḳaḷ bə-ḳáne di-kánboľ kor yə́yhəb wa-yəḥámoẓ̂,ḳáne di-kánboľ ,inside GEN-blanket,ground,noun,“Then it is left under a blanket to become warm and sour.”
+vol2text02,“002”,wa-yəˁúḳaḷ bə-ḳáne di-kánboľ kor yə́yhəb wa-yəḥámoẓ̂,yə́yhəb,be_warm.3SG.M.IMPF,cause,verb,“Then it is left under a blanket to become warm and sour.”
+vol2text02,“002”,wa-yəˁúḳaḷ bə-ḳáne di-kánboľ kor yə́yhəb wa-yəḥámoẓ̂,yəḥámoẓ̂,be_sour.3SG.M.IMPF,cause,verb,“Then it is left under a blanket to become warm and sour.”
+vol2text02,“003”,wa-yóuṣaḷ bəy ə́ˀənṭ di-rího kor yətégoḷ ḳáṭməhim diˀáḷ ṭahídidš,bəy,LOC.3SG.M,path,preposition,“Then a bit of water is put in so that the clumps of fresh butter join”
+vol2text02,“003”,wa-yóuṣaḷ bəy ə́ˀənṭ di-rího kor yətégoḷ ḳáṭməhim diˀáḷ ṭahídidš,ə́ˀənṭ di-rího,bit GEN-water,figure,noun,“Then a bit of water is put in so that the clumps of fresh butter join”
+vol2text02,“003”,wa-yóuṣaḷ bəy ə́ˀənṭ di-rího kor yətégoḷ ḳáṭməhim diˀáḷ ṭahídidš,yətégoḷ,collect.PASS.3SG.M.IMPF,cause,verb,“Then a bit of water is put in so that the clumps of fresh butter join”
+vol2text02,“004”,wa-ḷaṭ yənóuŝob di-ṣ̌ádhər waľľá di-sfəríyye,yənóuŝob,pour.PASS.3SG.M.IMPF,figure,sInflV,“Then it (the fresh butter) is poured into a pot or pan.”
+vol2text02,“004”,wa-ḷaṭ yənóuŝob di-ṣ̌ádhər waľľá di-sfəríyye,yənóuŝob,pour.PASS.3SG.M.IMPF,path,verb,“Then it (the fresh butter) is poured into a pot or pan.”
+vol2text02,“004”,wa-ḷaṭ yənóuŝob di-ṣ̌ádhər waľľá di-sfəríyye,di-ṣ̌ádhər,GEN-cooking_pot,ground,noun,“Then it (the fresh butter) is poured into a pot or pan.”
+vol2text02,“004”,wa-ḷaṭ yənóuŝob di-ṣ̌ádhər waľľá di-sfəríyye,di-sfəríyye,GEN-pan,ground,noun,“Then it (the fresh butter) is poured into a pot or pan.”
+vol2text02,“005”,wa-yóusod ḥéḷob bə-ŝiyáṭ di-fḥam wa-ˀaḷ-yəḳóudof ˁəy,ḥéḷob,buttermilk,figure,noun,“Buttermilk is put on glowing embers and not stirred.”
+vol2text02,“005”,wa-yóusod ḥéḷob bə-ŝiyáṭ di-fḥam wa-ˀaḷ-yəḳóudof ˁəy,bə-,LOC-,path,preposition,“Buttermilk is put on glowing embers and not stirred.”
+vol2text02,“005”,wa-yóusod ḥéḷob bə-ŝiyáṭ di-fḥam wa-ˀaḷ-yəḳóudof ˁəy,ŝiyáṭ di-fḥam,fire GEN-coal.PL,ground,noun,“Buttermilk is put on glowing embers and not stirred.”
+vol2text02,“005”,wa-yóusod ḥéḷob bə-ŝiyáṭ wa-yəḳóudof ˁəy ˁaf ľibhóḷ,ḥéḷob,buttermilk,figure,noun,“Buttermilk is put on the fire and stirred until ready.”
+vol2text02,“005”,wa-yóusod ḥéḷob bə-ŝiyáṭ wa-yəḳóudof ˁəy ˁaf ľibhóḷ,bə-,LOC-,path,preposition,“Buttermilk is put on the fire and stirred until ready.”
+vol2text02,“005”,wa-yóusod ḥéḷob bə-ŝiyáṭ wa-yəḳóudof ˁəy ˁaf ľibhóḷ,ŝiyáṭ,fire,ground,noun,“Buttermilk is put on the fire and stirred until ready.”
+vol2text02,“006”,wa-yóusod bə-fḥam di-ŝiyáṭ ˁaf ľaˁfɛ́ŝ yənóutog,yóusod,put_on_fire.PASS.3SG.M.IMPF,figure,sInflV,"“It is put on glowing embers to boil, then taken off.”"
+vol2text02,“006”,wa-yóusod bə-fḥam di-ŝiyáṭ ˁaf ľaˁfɛ́ŝ yənóutog,bə-,LOC-,path,preposition,"“It is put on glowing embers to boil, then taken off.”"
+vol2text02,“006”,wa-yóusod bə-fḥam di-ŝiyáṭ ˁaf ľaˁfɛ́ŝ yənóutog,fḥam di-ŝiyáṭ,coal.PL GEN-fire,ground,noun,"“It is put on glowing embers to boil, then taken off.”"
+vol2text02,“007”,wa-yəˁúḳaḷ bə-šə́yhom kor yəḳáŝaˁ wa-yékən ǯə́bna,yəˁúḳaḷ,put.PASS.3SG.M.IMPF,figure,sInflV,"“Then it is put out to dry in the sun, and it becomes cheese.”"
+vol2text02,“007”,wa-yəˁúḳaḷ bə-šə́yhom kor yəḳáŝaˁ wa-yékən ǯə́bna,bə-,LOC-,path,preposition,"“Then it is put out to dry in the sun, and it becomes cheese.”"
+vol2text02,“007”,wa-yəˁúḳaḷ bə-šə́yhom kor yəḳáŝaˁ wa-yékən ǯə́bna,šə́yhom,heat_from_sun,ground,noun,"“Then it is put out to dry in the sun, and it becomes cheese.”"
+vol2text02,“007”,wa-yəˁúḳaḷ bə-šə́yhom kor yəḳáŝaˁ wa-yékən ǯə́bna,yəḳáŝaˁ,dry.3SG.M.IMPF,cause,verb,"“Then it is put out to dry in the sun, and it becomes cheese.”"
+vol2text02,“008”,bóuḷog di-ḳáne di-ḥámˀi ˁaf sem di-ˁígɛb həs,bóuḷog,leave.PASS.3SG.M.IMPF,figure,sInflV,“It is put in clarified butter until the time it is needed.”
+vol2text02,“008”,bóuḷog di-ḳáne di-ḥámˀi ˁaf sem di-ˁígɛb həs,di-,GEN-,path,preposition,“It is put in clarified butter until the time it is needed.”
+vol2text02,“008”,bóuḷog di-ḳáne di-ḥámˀi ˁaf sem di-ˁígɛb həs,ḳáne di-ḥámˀi,inside GEN-clarified_butter,ground,noun,“It is put in clarified butter until the time it is needed.”
+vol2text06,“009”,yáḷḷa tíˁid təríˁi tɛ́tən wa-təgorifé-sən,tíˁid,go.2SG.F.IMPF,figure,sInflV,"“‘Go, graze your sheep and bring them back to the pen in the evening.’”"
+vol2text06,“009”,yáḷḷa tíˁid təríˁi tɛ́tən wa-təgorifé-sən,təríˁi,pasture.2SG.F.IMPF,cause,verb,"“‘Go, graze your sheep and bring them back to the pen in the evening.’”"
+vol2text06,“010”,yáḷḷa tíˁid təríˁi tɛ́tən wa-təgorifé-sən,tíˁid,go.2SG.F.IMPF,figure,sInflV,"“‘Go, graze your sheep and bring them back to the pen.”"
+vol2text06,“010”,yáḷḷa tíˁid təríˁi tɛ́tən wa-təgorifé-sən,təríˁi,pasture.2SG.F.IMPF,cause,verb,"“‘Go, graze your sheep and bring them back to the pen.”"
+vol2text06,“011”,wa-ˀaḷ-taˁyhɛ́fən kenš,taˁyhɛ́fən,get_lost.3PL.F.JUSS,figure,sInflV,"“And may none get away from you,”"
+vol2text06,“011”,wa-ˀaḷ-taˁyhɛ́fən kenš,kenš,from.2SG.F,path,preposition,"“And may none get away from you,”"
+vol2text06,“011”,wa-ˀaḷ-taˁyhɛ́fən kenš,kenš,from.2SG.F,ground,preposition,"“And may none get away from you,”"
+vol2text06,“012”,wa-ḷeṭ díˀse bɛ́bɛ béḷog ˁes díˀse ḳáḳa,béḷog,send.3SG.M.PF,cause,verb,"“Then her father sent her brother after her,”"
+vol2text06,“012”,wa-ḷeṭ díˀse bɛ́bɛ béḷog ˁes díˀse ḳáḳa,ˁes,SUPE.3SG.F,path,preposition,"“Then her father sent her brother after her,”"
+vol2text06,“012”,wa-ḷeṭ díˀse bɛ́bɛ béḷog ˁes díˀse ḳáḳa,ˁes,SUPE.3SG.F,ground,preposition,"“Then her father sent her brother after her,”"
+vol2text06,“012”,wa-ḷeṭ díˀse bɛ́bɛ béḷog ˁes díˀse ḳáḳa,díˀse ḳáḳa,GEN.3SG.F brother,figure,noun,"“Then her father sent her brother after her,”"
+vol2text06,“013”,ṭáhɛr ˁouyɛ́ghɛn wa-kes ˁes inɛ́m taˁámər,ˁouyɛ́ghɛn,boy,figure,noun,“The boy went out and hid from his sister to see what she would do and say.”
+vol2text06,“013”,ṭáhɛr ˁouyɛ́ghɛn wa-kes ˁes inɛ́m taˁámər,ˁes,SUPE.3SG.F,path,preposition,“The boy went out and hid from his sister to see what she would do and say.”
+vol2text06,“013”,ṭáhɛr ˁouyɛ́ghɛn wa-kes ˁes inɛ́m taˁámər,ˁes,SUPE.3SG.F,ground,preposition,“The boy went out and hid from his sister to see what she would do and say.”
+vol2text06,“014”,katénaḥ ˁouyɛ́ghɛn diˀáḷ díˀyhe bɛ́bɛ,ˁouyɛ́ghɛn,boy,figure,noun,“The boy came back to his father”
+vol2text06,“014”,katénaḥ ˁouyɛ́ghɛn diˀáḷ díˀyhe bɛ́bɛ,diˀáḷ,toward,path,preposition,“The boy came back to his father”
+vol2text06,“014”,katénaḥ ˁouyɛ́ghɛn diˀáḷ díˀyhe bɛ́bɛ,díˀyhe bɛ́bɛ,GEN.3SG.M father,ground,noun,“The boy came back to his father”
+vol2text06,“015”,wa-tóˀo əḳáro ˁougéno mənáḷ réˁe díˀse di-ḳáˁar,ˁougéno,girl,figure,noun,"“As for the girl, when she came back home after herding her sheep,”"
+vol2text06,“015”,wa-tóˀo əḳáro ˁougéno mənáḷ réˁe díˀse di-ḳáˁar,díˀse di-ḳáˁar,GEN.3SG.F GEN-house,ground,noun,"“As for the girl, when she came back home after herding her sheep,”"
